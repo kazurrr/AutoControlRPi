@@ -4,4 +4,4 @@ python:
 sudo: yes
 install:
     - pip install -r requirements.txt
-    - pip install auto_control_pi
+#    - pip install auto_control_pi
