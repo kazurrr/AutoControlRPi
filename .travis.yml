@@ -2,4 +2,4 @@ language: python
 python:
     - "2.7"
 install:
-    - make build
+    - pip install auto_control_pi
