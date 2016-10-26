@@ -1,4 +1,4 @@
-# AutoControlRPi
+# AutoControlRPi [![Build Status](https://travis-ci.org/kazurrr/AutoControlRPi.svg?branch=master)](https://travis-ci.org/kazurrr/AutoControlRPi)
 
 ## Zależności
 
