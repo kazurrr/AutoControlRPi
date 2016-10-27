@@ -36,3 +36,10 @@ Supported commands using ISO 9141-2 protocol (Mercedes C W203):
   0210: DTC Air Flow Rate (MAF)
   0600: Supported MIDs [01-20]
   ```
+## Car info model
+* Informacje o pojeździe (marka, model, identyfikator pojazdu)
+* Pozycja pojazdu
+* Prędkość: 010D
+* Obroty silnika: 010C
+* Temperatura silnika: 0105
+* Napięcie: ATRV
