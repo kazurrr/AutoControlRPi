@@ -4,6 +4,8 @@
 
 `sudo apt-get install bluetooth bluez-utils blueman`
 
+`sudo apt-get install gpsd gpsd-clients python-gps`
+
 ## Pierwsze użycie
 
 Supported commands using ISO 9141-2 protocol (Mercedes C W203):
