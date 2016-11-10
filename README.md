@@ -40,8 +40,9 @@ Supported commands using ISO 9141-2 protocol (Mercedes C W203):
   ```
 ## Car info model
 * Informacje o pojeździe (marka, model, identyfikator pojazdu - VIN)
-* Pozycja pojazdu
+* Pozycja pojazdu (lat, lon)
 * Prędkość: 010D
 * Obroty silnika: 010C
 * Temperatura silnika: 0105
 * Napięcie: ATRV
+* Błędy pojazdu
