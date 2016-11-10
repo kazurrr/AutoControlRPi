@@ -39,7 +39,7 @@ Supported commands using ISO 9141-2 protocol (Mercedes C W203):
   0600: Supported MIDs [01-20]
   ```
 ## Car info model
-* Informacje o pojeździe (marka, model, identyfikator pojazdu)
+* Informacje o pojeździe (marka, model, identyfikator pojazdu - VIN)
 * Pozycja pojazdu
 * Prędkość: 010D
 * Obroty silnika: 010C
