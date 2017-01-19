@@ -1,4 +1,4 @@
 # Python 2.6 compatibility
 obd==0.6.1
-gpsd
-gpsd-clients
+# gpsd
+# gpsd-clients
