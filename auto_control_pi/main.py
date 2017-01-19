@@ -13,13 +13,14 @@ class MainProgram:
         self.gps = Position()
         self.can = CarData()
         self.sending_details = True
+        self.refresh_rate_in_second = 10
 
     def start_broadcasting(self):
         self.sending_details = True
 
         while self.sending_details:
             self.send_data()
-            time.sleep(10)
+            time.sleep(self.refresh_rate_in_second)
 
     def stop_broadcasting(self):
         self.sending_details = False
